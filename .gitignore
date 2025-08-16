@@ -1,0 +1,14 @@
+# Archivos y carpetas de Eclipse
+.classpath
+.project
+.settings/
+
+# Archivos compilados y generados por Maven
+target/
+
+# Logs
+*.log
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
